@@ -1,0 +1,3 @@
+hola soy yo luis angel y weno este es el segundo commit
+y este es el proyecto donde estoy probando todo el potencial de las ramas
+esta sección se guardara en la rama header
